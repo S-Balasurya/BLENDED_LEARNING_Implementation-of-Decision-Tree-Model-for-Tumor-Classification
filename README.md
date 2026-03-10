@@ -10,8 +10,11 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
 
 ## Algorithm
 1.Decision Tree Classifier is used to classify tumor data into different classes based on the selected features.
+
 2.Dataset Preparation involves loading the dataset and selecting input features and the target variable.
+
 3.Train-Test Split divides the dataset into training and testing sets for model training and evaluation.
+
 4.Model Evaluation is performed by predicting test data and calculating accuracy, classification report, and confusion matrix.
 
 ## Program:
