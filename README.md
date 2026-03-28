@@ -71,26 +71,14 @@ plt.show()
 
 ## Output:
 
-Name:Balasurya S
+<img width="553" height="317" alt="Screenshot 2026-03-28 145225" src="https://github.com/user-attachments/assets/f94a88e0-3feb-4077-93a6-1e812f0cf6c7" />
 
-Register No:212225100003
+<img width="755" height="388" alt="Screenshot 2026-03-28 145512" src="https://github.com/user-attachments/assets/5f697a7f-085e-475b-a2f0-fac075f2914a" />
 
-Accuracy: 0.9170731707317074
+ <img width="313" height="88" alt="Screenshot 2026-03-28 145540" src="https://github.com/user-attachments/assets/066eb0af-d84f-44e0-bc85-5ced99f0a3ea" />
 
-Classification Report:
+<img width="544" height="301" alt="Screenshot 2026-03-28 145601" src="https://github.com/user-attachments/assets/d456cc55-f6e1-40ff-8b68-43c38c75e06a" />
 
-               precision    recall  f1-score   support
-
-           0       0.90      0.98      0.94       127
-           1       0.96      0.82      0.88        78
-
-   accuracy                           0.92       205
-  
-   macro avg       0.93      0.90      0.91       205
-
-weighted avg       0.92      0.92      0.92       205
-
- 
 <Figure size 640x480 with 2 Axes><img width="539" height="453" alt="image" src="https://github.com/user-attachments/assets/0ab468f3-cefc-4cc8-93bb-5ea95d270d51" />
 
 ## Result:
